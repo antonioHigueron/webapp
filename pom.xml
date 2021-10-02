@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>webApp Maven Webapp</name>
-  
+  <!--nuevo comentario-->
   <url>http://www.example.com</url>
 
   <properties>
